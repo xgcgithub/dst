@@ -1,0 +1,30 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://192.168.5.222:5344/"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "梓澪",
+      "server": "https://zi0.cc"
+    },
+    {
+      "name": "王盛网盘",
+      "server": "https://pan.wangsheng.cc"
+    } 
+  ]
+}
