@@ -3,16 +3,13 @@
   "drives": [
     {
       "name": "小雅",
-      "server": "http://192.168.5.222:5344"
+      "server": "http://192.168.31.31:5678"
     },
     {
       "name": "觸光",
       "server": "https://pan.ichuguang.com"
     },
-    {
-      "name": "一只魚",
-      "server": "https://vtok.pp.ua/"
-    },
+  
     {
       "name": "七米藍",
       "server": "https://al.chirmyram.com"
@@ -21,38 +18,10 @@
       "name": "神族九帝",
       "server": "https://alist.shenzjd.com"
     },
-    {
-      "name": "梓澪",
-      "server": "https://zi0.cc"
-    },
+  
     {
       "name": "红心",
       "server": "https://pan.mediy.cn"
-    },
-
-    {
-      "name": "王盛网盘",
-      "server": "https://pan.wangsheng.cc"
-    },
-    {
-      "name": "国外大片合集国语收藏版",
-      "server": "https://www.alipan.com/s/bFyzwHsh2n5/folder/65a7b6447b663faeee40420dba3a0d36996bd831"
-    },
-    {
-      "name": "範本",
-      "server": "https://one.fongmi.com",
-      "search": true,
-      "hidden": false,
-      "login": {
-        "username": "fongmi",
-        "password": "fongmi"
-      },
-      "params": [
-        {
-          "path": "/安齋拉拉",
-          "pass": "18181818"
-        }
-      ]
     }
   ]
 }
