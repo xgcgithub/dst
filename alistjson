@@ -1,3 +1,4 @@
+
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
@@ -18,7 +19,10 @@
       "name": "神族九帝",
       "server": "https://alist.shenzjd.com"
     },
-  
+     {
+            "name": "星梦",
+            "server": "https://pan.bashroot.top"
+     },
     {
       "name": "红心",
       "server": "https://pan.mediy.cn"
