@@ -311,21 +311,6 @@
         "战争片"
       ]
     },
-   {
-      "key": "欣欣",
-      "name": "欣欣┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/xgcxgc/cc/raw/main/xinxin.txt",
-       "jar": "./4.txt" 
-    },
-
-
-
      {
       "key": "短剧网",
       "name": "💕短剧W💕",
@@ -388,7 +373,43 @@
       "ext": "./yp",
        "jar": "./cust"  
    },
- 
+   {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘资源2",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp2",
+       "jar": "./cust"  
+   },
+  {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘资源3",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp3",
+       "jar": "./cust"  
+   },
+  {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘资源4",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp4",
+       "jar": "./cust"  
+   },
+
+
+
+
    {
       "key": "AList",
       "name": "网盘 | Alist[jar]",
