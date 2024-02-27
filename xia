@@ -363,6 +363,13 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "AList",
+      "name": "网盘 | Alist[jar]",
+      "type": 3,
+      "api": "csp_AList",
+      "ext": "./alistjson"
+    },
+    {
       "key": "csp_XYQHikerAL_云盘资源",
       "name": "📀云盘资源(搜索)",
       "type": 3,
@@ -372,51 +379,7 @@
       "filterable": 1,
       "ext": "./yp",
        "jar": "./cust"  
-   },
-   {
-      "key": "csp_XYQHikerAL_云盘资源2",
-      "name": "📀云盘资源2",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./yp2",
-       "jar": "./cust"  
-   },
-  {
-      "key": "csp_XYQHikerAL_云盘资源3",
-      "name": "📀云盘资源3",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./yp3",
-       "jar": "./cust"  
-   },
-  {
-      "key": "csp_XYQHikerAL_云盘资源4",
-      "name": "📀云盘资源4",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./yp4",
-       "jar": "./cust"  
-   },
-
-
-
-
-   {
-      "key": "AList",
-      "name": "网盘 | Alist[jar]",
-      "type": 3,
-      "api": "csp_AList",
-      "ext": "./alistjson"
-    }
+   }
     ],
 
 
