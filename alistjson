@@ -7,10 +7,17 @@
       "server": "http://192.168.31.31:5678"
     },
     {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"
+            "name": "星梦",
+            "server": "https://pan.bashroot.top"
+     },
+    {
+      "name": "红心",
+      "server": "https://pan.mediy.cn"
     },
-  
+     {
+            "name": "托盘",
+            "server": "https://pan.mediy.cn/"
+     },
     {
       "name": "七米藍",
       "server": "https://al.chirmyram.com"
@@ -20,12 +27,8 @@
       "server": "https://alist.shenzjd.com"
     },
      {
-            "name": "星梦",
-            "server": "https://pan.bashroot.top"
-     },
-    {
-      "name": "红心",
-      "server": "https://pan.mediy.cn"
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
     }
   ]
 }
