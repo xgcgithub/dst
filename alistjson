@@ -19,6 +19,10 @@
       "server": "https://al.chirmyram.com"
     },
     {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
       "name": "神族九帝",
       "server": "https://alist.shenzjd.com"
     },
