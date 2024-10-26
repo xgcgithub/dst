@@ -2,18 +2,14 @@
   "spider": "./Yoursmilejar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "lives": [
-     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0Y29kZS5jb20veGdjeGdjL2RzdC9yYXcvbWFpbi9kc3QudHh0"
-          ]
-        }
-      ]
-    }
-  ],
+{
+"name": "TXT",
+"type": 0,
+"url": "./dst.txt",
+"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+}
+],
 
   "sites": [
 
